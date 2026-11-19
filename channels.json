@@ -1,0 +1,43 @@
+[
+  {
+    "id": "cna-sg",
+    "name": "CNA Singapore",
+    "type": "rss",
+    "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=10416",
+    "category": "Local"
+  },
+  {
+    "id": "st-sg",
+    "name": "The Straits Times",
+    "type": "rss",
+    "url": "https://www.straitstimes.com/news/singapore/rss.xml",
+    "category": "Local"
+  },
+  {
+    "id": "mothership",
+    "name": "Mothership",
+    "type": "rss",
+    "url": "https://mothership.sg/feed/",
+    "category": "Local"
+  },
+  {
+    "id": "guardian-world",
+    "name": "The Guardian World",
+    "type": "rss",
+    "url": "https://www.theguardian.com/world/rss",
+    "category": "Global"
+  },
+  {
+    "id": "bbc-world",
+    "name": "BBC World",
+    "type": "rss",
+    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "category": "Global"
+  },
+  {
+    "id": "hn",
+    "name": "Hacker News",
+    "type": "hn",
+    "category": "Tech"
+  }
+]
